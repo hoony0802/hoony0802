@@ -11,10 +11,10 @@
 <img align="right" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 110px>
   
 
-- 📝 I regularly write articles on https://velog.io/@hoony0802  
+- 📝 Blog : https://velog.io/@hoony0802  
   
 
-- 📫 How to reach me junghoon.dev@gmail.com  
+- 📫 E-mail : junghoon.dev@gmail.com  
   
 
 <br/>  
@@ -73,6 +73,6 @@
 ----
 <br/> 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=junghoonme&color=blueviolet&style=flat" align="center" />
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunghoonme&count_bg=%23EC0A8D&title_bg=%23555555&icon=tinder.svg&icon_color=%23EA1010&title=hits&edge_flat=false"/></a>
 </div>
 
