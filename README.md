@@ -10,20 +10,15 @@
 
 <img align="right" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 110px>
   
+- 📫 E-mail : junghoon.dev@gmail.com  
 
 - 📝 Blog : https://velog.io/@hoony0802  
   
-
-- 📫 E-mail : junghoon.dev@gmail.com  
-  
-
 <br/>  
 
 ## My Skill Set <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -37,8 +32,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
@@ -47,8 +40,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Etc  
 <div align="center">  
@@ -62,8 +53,6 @@
 
 <br/>  
  
-
-
 ## My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'>
 
 <div align="center">
