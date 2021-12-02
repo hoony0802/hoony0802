@@ -12,7 +12,7 @@
   
 - 📫 E-mail : junghoon.dev@gmail.com  
 
-- 📝 Blog : velog.io/@hoony0802  
+- 📝 Blog : https://velog.io/@hoony0802 
   
 <br/>  
 
