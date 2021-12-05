@@ -4,7 +4,7 @@
   
 <br/>
 
-### <div align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm JungHoon Kim, A passionate frontend developer 👨‍💻 from Korea 🇰🇷</div>  
+### <div align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm JungHoon Kim, a passionate Front-end Web Developer 👨‍💻</div>  
   
 <br/>  
 
