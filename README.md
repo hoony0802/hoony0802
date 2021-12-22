@@ -20,7 +20,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-### Frontend  
+### Front-end  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
