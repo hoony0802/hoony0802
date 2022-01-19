@@ -43,17 +43,4 @@
 alt="AWS" height="75" />  
 </div>
 
-</td></tr></table>  
-
-<br/>  
- 
-## My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'>
-
-<div align="center">
-<span><img src="https://github-readme-stats.vercel.app/api?username=junghoonme&show_icons=true&locale=en&theme=radical&count_private=true" alt="junghoonme" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=junghoonme&theme=radical" alt="junghoonme" width="49%"/></span>
-</div>
-
-----
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunghoonme&count_bg=%23EC0A8D&title_bg=%23555555&icon=tinder.svg&icon_color=%23EA1010&title=hits&edge_flat=false"/></a>
-</div>
+</td></tr></table>   
